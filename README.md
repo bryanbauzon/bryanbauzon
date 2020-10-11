@@ -1,5 +1,6 @@
 ### Hi Kamusta?👋
  🌱 I’m currently learning Mobile development using Flutter
+ 🤔 I’m looking for help with mobile development using Flutter
 
 <!--
 **bryanbauzon/bryanbauzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
