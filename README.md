@@ -1,6 +1,6 @@
 #### Ciao! 
 
-
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <!--
 **bryanbauzon/bryanbauzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
